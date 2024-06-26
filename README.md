@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🌱 As a seasoned Project Manager at Enact Services, with over 7 years of experience, I bring a treasure trove of expertise and an unyielding passion for technology to every project I dive into. My journey in the tech world has been fueled by an insatiable curiosity and an unwavering commitment to smashing goals.
 
-- 👨‍💻 All of my projects are available at [
+- 👨‍💻 All of my projects are available at [https://github.com/maheshsehajpal/]
 
 - 💬 Ask me about *Android, Java , Kotlin , Swift , React JS , React Native , UI/UX design , C , C++ , Firebase & GitHub*
 
