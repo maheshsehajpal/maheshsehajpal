@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 -->
 
 ![MasterHead](https://cdn.dribbble.com/users/4189928/screenshots/13274007/media/44720bb0c4def0478388a2cbf0ab7b0a.gif)
-<img align="center" alt="Coding gif" width="400" src="https://cdn.dribbble.com/users/4189928/screenshots/13274007/media/44720bb0c4def0478388a2cbf0ab7b0a.gif">
 
 <h1 align="center">Hi 👋, I'm Mahesh Sehajpal</h1>
 <h3 align="center">Project Manager || React Native || Android || Xcode Developer</h3> 
+<img align="center" alt="Coding gif" width="400" src="https://cdn.dribbble.com/users/4189928/screenshots/13274007/media/44720bb0c4def0478388a2cbf0ab7b0a.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshsehajpal&label=Profile%20views&color=0e75b6&style=flat" alt="maheshsehajpal" /> </p>
 
