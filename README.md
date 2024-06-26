@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/mahesh-sehajpal-sharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahesh-sehajpal-sharma" height="30" width="40" /></a>
 
-<a href="https://www.facebook.com/mahesh.sharma.313371/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mahesh Sehajpal" height="30" width="40" /></a>
 
 <a href="https://stackoverflow.com/users/7108388/mahesh-sehajpal" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/512px-Stack_Overflow_icon.svg.png?20190716190036" alt="Mahesh Sehajpal" height="30" width="40" /></a>
 
