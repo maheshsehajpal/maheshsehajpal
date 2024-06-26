@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![](https://cdn.dribbble.com/users/4189928/screenshots/13274007/media/44720bb0c4def0478388a2cbf0ab7b0a.gif)
 -->
 
-![MasterHead](https://cdn.dribbble.com/users/4189928/screenshots/13274007/media/44720bb0c4def0478388a2cbf0ab7b0a.gif)
+![MasterHead](https://static.vecteezy.com/system/resources/previews/004/491/062/non_2x/programmer-working-concept-for-web-banner-man-work-with-code-and-programming-at-computer-creates-software-modern-person-scene-illustration-in-flat-cartoon-design-with-people-characters-vector.jpg)
 
 <h1 align="center">Hi 👋, I'm Mahesh Sehajpal</h1>
 <h3 align="center">Project Manager || React Native || Android || Xcode Developer</h3> 
